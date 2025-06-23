@@ -55,7 +55,7 @@ This setup supports various operations such as:
 Foreign keys and constraints (e.g., `ON DELETE SET NULL`, `ON DELETE CASCADE`) are used to maintain data consistency across tables.
 
 
-###  **Normalization in the Schema**
+##  **Normalization in the Schema**
 
 1. **1NF (First Normal Form)** 
 
