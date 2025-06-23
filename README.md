@@ -54,9 +54,6 @@ This setup supports various operations such as:
 
 Foreign keys and constraints (e.g., `ON DELETE SET NULL`, `ON DELETE CASCADE`) are used to maintain data consistency across tables.
 
-Yes, your database design **does include normalization principles**, specifically up to **Third Normal Form (3NF)**. Here's how:
-
----
 
 ###  **Normalization in the Schema**
 
